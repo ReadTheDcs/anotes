@@ -9,6 +9,7 @@ edit_uri: ""
 theme:
     name: material
     custom_dir: 'material/'
+    logo:''
     highlightjs: true
     hljs_languages:
         - yaml
