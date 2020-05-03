@@ -9,7 +9,7 @@ edit_uri: ""
 theme:
     name: material
     custom_dir: 'material/'
-    logo: 'img/logo.png'
+    logo: 'img/email.png'
     feature: ''
     highlightjs: true
     hljs_languages:
