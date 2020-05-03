@@ -1,4 +1,4 @@
-# Tempmailo Docs
+# Tempmailin - Temp email Docs
 
 Email for One Time - Tempmailo is a **fast**, **simple** and **downright gorgeous** temp mail service.
 
