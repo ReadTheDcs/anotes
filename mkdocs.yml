@@ -10,6 +10,7 @@ theme:
     name: material
     custom_dir: 'material/'
     logo: ''
+    feature: ''
     highlightjs: true
     hljs_languages:
         - yaml
