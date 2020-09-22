@@ -1,7 +1,7 @@
-site_name: ANotes - useful notes
-site_url: https://tempmailin.com/
-site_description: Tempmailin is website providing service for temp mail or also called 10 minute mail or disposable email.
-site_author: Tempmailin.com
+site_name: ANotes
+site_url: https://anotes.rtfd.io/
+site_description: ANotes - useful notes
+site_author: Anotes
 
 repo_url: "" #https://github.com/ReadTheDcs/MkMod
 edit_uri: ""
