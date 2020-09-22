@@ -1,4 +1,4 @@
-site_name: Tempmailin - temp email
+site_name: ANotes - useful notes
 site_url: https://tempmailin.com/
 site_description: Tempmailin is website providing service for temp mail or also called 10 minute mail or disposable email.
 site_author: Tempmailin.com
@@ -9,9 +9,9 @@ edit_uri: ""
 theme:
     name: material
     custom_dir: 'material/'
-    logo: 'img/email.png'
+    logo: 'img/logo.png'
     feature: ''
-    highlightjs: true
+    highlightjs: false
     hljs_languages:
         - yaml
         - django
@@ -30,7 +30,7 @@ markdown_extensions:
         user: mkdocs
         repo: mkdocs
 
-copyright: Copyright &copy; 2019 <a href="https://tempmailin.com/">Tempmailin</a>, Project <a href="https://readthedocs.org/projects/atempmailin/" target="_blank">Home</a>.
+copyright: Copyright &copy; 2020
 
 #google_analytics: ['UA-27795084-5', 'mkdocs.org']
 
