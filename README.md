@@ -1,10 +1,10 @@
-# Tempmailo Docs
+# ANotes Docs
 ===
 
-One Time Email - [Tempmailin](https://tempmailin.com/) is a fast, simple and downright gorgeous temp mail service.
+This explains why it's important to bookmark a blog post's permalink rather than the homepage, archive page, article list, or category page where you originally found it. If nothing happens, download the GitHub extension for Visual Studio and try again. Use the box at the top to search your bookmarks, and the menu button to the top right to add new bookmarks, add bookmark folders (very useful for organizing), and import and export bookmarks.
 ---
 
-Project [Home](https://readthedocs.org/projects/atempmailin/)
+Project [Home](https://readthedocs.org/projects/anotes/)
 
-[![Documentation Status](https://readthedocs.org/projects/atempmailo/badge/?version=latest)](https://tempmailin.com/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/anotes//badge/?version=latest)](https://readthedocs.org/projects/anotes/?badge=latest)
 
