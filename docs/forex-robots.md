@@ -1,4 +1,4 @@
-# 
+# Forex robots
 
 
 Forex robots can be effective in finding optimum entry and exit points for trades, calculating ideal position sizes, and executing transactions according to the rules in a pre-determined trading plan .
@@ -12,4 +12,5 @@ Automated forex trading systems can be effective tools for determining optimum e
 The robot's algorithm can be based on pre-set parameters or trading strategies and the robot can either be instructed to trade automatically on a trader's behalf or give traders the option to enter the trade manually.
 
 A forex trading robot is a computer program based on a set of forex trading signals that helps determine whether to buy or sell a currency pair at a given point in time.
+
 [https://www.launchora.com/story/how-do-forex-trading-bots-actually-work](https://www.launchora.com/story/how-do-forex-trading-bots-actually-work)
