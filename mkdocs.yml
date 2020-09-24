@@ -1,5 +1,5 @@
 site_name: ANotes
-site_url: https://anotes.rtfd.io/
+site_url: https://anotes.readthedocs.io/
 site_description: ANotes - useful notes
 site_author: Anotes
 
@@ -30,7 +30,7 @@ markdown_extensions:
         user: mkdocs
         repo: mkdocs
 
-copyright: Copyright &copy; 2020
+copyright: Copyright &copy; 2020 ANotes
 
 #google_analytics: ['UA-27795084-5', 'mkdocs.org']
 
