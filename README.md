@@ -5,6 +5,3 @@ This explains why it's important to bookmark a blog post's permalink rather than
 ---
 
 Project [Home](https://readthedocs.org/projects/anotes/)
-
-[![Documentation Status](https://readthedocs.org/projects/anotes//badge/?version=latest)](https://readthedocs.org/projects/anotes/?badge=latest)
-
