@@ -27,4 +27,4 @@ Medium is an online publishing platform and social bookmarking site where you ca
 Regarding the Digital Identification sector, records and verification is the use case for the great majority of organizations studied for this report. The authors have done an excellent job of exploring and quantifying the potential blockchain technology has to solve society's problems across many different areas and sectors, like governance, democracy, energy, health, and many others, which makes it an excellent read. This study on blockchain and social impact are based on the analysis of 193 organizations and projects that are focused on blockchain technologies to boost social impact. 
 
 In social bookmarking sites, discussion topics are organized into specific rooms or threads where users follow content that's interesting to them. Den.yt is a general bookmark and link posting platform that lets its users post different kinds of content. 
-(https://github.com/ReadTheDcs/anotes)[https://github.com/ReadTheDcs/anotes]
+[anotes](https://github.com/ReadTheDcs/anotes)
